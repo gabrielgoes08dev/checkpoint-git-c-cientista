@@ -10,7 +10,7 @@ int main(){
     printf ("guilherme");
     printf ("commit dois");
     printf ("commit tres");
-
+    printf("\n");
     return 0;
 }
 
