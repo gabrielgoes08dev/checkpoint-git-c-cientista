@@ -9,6 +9,7 @@ int main(){
     printf ("realizando o terceiro commit");
     printf ("guilherme");
     printf ("commit dois");
+    printf ("commit tres");
 
     return 0;
 }
