@@ -1,6 +1,11 @@
-#include <stdio.h>
+#include <stdio.h> // incluíndo biblioteca
 int main(){
+    printf("Manuela Cespede!"); //adicionado o primeiro print
+    printf("Marcos Peterson");//adicionado meu primeiro print
+    printf("Gabriel Góes");
+    printf("\n");
     printf ("Nayhely Estela Calle Castillo");
     printf ("\n");
+    printf ("realizando o terceiro commit");
     return 0;
 }
